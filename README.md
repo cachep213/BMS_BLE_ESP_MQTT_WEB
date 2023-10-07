@@ -7,5 +7,6 @@
 3) Nodered save data to Influxdb
 
 4) Grafana to dashboard
- ![alt text]([http://url/to/img.png](https://github.com/cachep213/BMS_BLE_ESP_MQTT_WEB/blob/9d211e048223700a375d73bb427ace4287d67ec7/messageImage_1696586455765.jpg)https://github.com/cachep213/BMS_BLE_ESP_MQTT_WEB/blob/9d211e048223700a375d73bb427ace4287d67ec7/messageImage_1696586455765.jpg)
+
+![image](https://github.com/cachep213/BMS_BLE_ESP_MQTT_WEB/assets/40739408/b2df882a-7d11-448d-ae30-13e9016a9691)
 
